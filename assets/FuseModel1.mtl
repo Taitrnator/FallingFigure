@@ -1,0 +1,65 @@
+newmtl Bodymat
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 512.000000
+d 1.000000
+Tr 0.000000
+map_Kd FuseModel1_Body_Diffuse.png 
+map_D FuseModel1_Body_Opacity.png 
+map_Ks FuseModel1_Body_Specular.png 
+adobe_map_Normal FuseModel1_Body_Normal.png 
+adobe_map_Shininess FuseModel1_Body_Gloss.png 
+
+newmtl Shoesmat
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 512.000000
+d 1.000000
+Tr 0.000000
+map_Kd FuseModel1_Shoes_Diffuse.png 
+map_D FuseModel1_Shoes_Opacity.png 
+map_Ks FuseModel1_Shoes_Specular.png 
+adobe_map_Normal FuseModel1_Shoes_Normal.png 
+adobe_map_Shininess FuseModel1_Shoes_Gloss.png 
+
+newmtl Bottommat
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 512.000000
+d 1.000000
+Tr 0.000000
+map_Kd FuseModel1_Bottom_Diffuse.png 
+map_D FuseModel1_Bottom_Opacity.png 
+map_Ks FuseModel1_Bottom_Specular.png 
+adobe_map_Normal FuseModel1_Bottom_Normal.png 
+adobe_map_Shininess FuseModel1_Bottom_Gloss.png 
+
+newmtl Hairmat
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 512.000000
+d 1.000000
+Tr 0.000000
+map_Kd FuseModel1_Hair_Diffuse.png 
+map_D FuseModel1_Hair_Opacity.png 
+map_Ks FuseModel1_Hair_Specular.png 
+adobe_map_Normal FuseModel1_Hair_Normal.png 
+adobe_map_Shininess FuseModel1_Hair_Gloss.png 
+
+newmtl Topmat
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 512.000000
+d 1.000000
+Tr 0.000000
+map_Kd FuseModel1_Top_Diffuse.png 
+map_D FuseModel1_Top_Opacity.png 
+map_Ks FuseModel1_Top_Specular.png 
+adobe_map_Normal FuseModel1_Top_Normal.png 
+adobe_map_Shininess FuseModel1_Top_Gloss.png 
+
