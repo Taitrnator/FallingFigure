@@ -1,4 +1,4 @@
-var human;
+let human;
 
 var easycam;
 var phongshader;
@@ -192,6 +192,7 @@ function addPointLight(shader, pointlights, idx){
 // }
 
 
+console.log(human);
 
 function draw() {
   background(0);
@@ -330,10 +331,10 @@ function draw() {
   model(human);
   pop();
 
-  push();
-  stroke(255);
-  // sphere(300);
-  pop();
+  // push();
+  // stroke(255);
+  // // sphere(300);
+  // pop();
   // torus
   // push();
   // this._renderer.uMVMatrix.set(human);
